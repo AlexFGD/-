@@ -3,8 +3,11 @@
 }
 
 .contenedor{
-    background: cadetblue;
-    width: 100vw;
+    background-image: url(file://C:/Users/felis/Pictures/gnome.jpg);
+    background-repeat:no-repeat ;
+    background-size: 1920px 1080px;
+    background-color: #cccccc;
+    width: 100pw;
     height: 100vh;
     text-align: center;
 }   
